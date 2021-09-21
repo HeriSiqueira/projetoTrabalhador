@@ -1,0 +1,16 @@
+C:\ws-vs2019.2021\CourseDoisWorker\CourseDoisWorker\bin\Debug\net5.0\CourseDoisWorker.exe
+C:\ws-vs2019.2021\CourseDoisWorker\CourseDoisWorker\bin\Debug\net5.0\CourseDoisWorker.deps.json
+C:\ws-vs2019.2021\CourseDoisWorker\CourseDoisWorker\bin\Debug\net5.0\CourseDoisWorker.runtimeconfig.json
+C:\ws-vs2019.2021\CourseDoisWorker\CourseDoisWorker\bin\Debug\net5.0\CourseDoisWorker.runtimeconfig.dev.json
+C:\ws-vs2019.2021\CourseDoisWorker\CourseDoisWorker\bin\Debug\net5.0\CourseDoisWorker.dll
+C:\ws-vs2019.2021\CourseDoisWorker\CourseDoisWorker\bin\Debug\net5.0\ref\CourseDoisWorker.dll
+C:\ws-vs2019.2021\CourseDoisWorker\CourseDoisWorker\bin\Debug\net5.0\CourseDoisWorker.pdb
+C:\ws-vs2019.2021\CourseDoisWorker\CourseDoisWorker\obj\Debug\net5.0\CourseDoisWorker.csproj.AssemblyReference.cache
+C:\ws-vs2019.2021\CourseDoisWorker\CourseDoisWorker\obj\Debug\net5.0\CourseDoisWorker.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-vs2019.2021\CourseDoisWorker\CourseDoisWorker\obj\Debug\net5.0\CourseDoisWorker.AssemblyInfoInputs.cache
+C:\ws-vs2019.2021\CourseDoisWorker\CourseDoisWorker\obj\Debug\net5.0\CourseDoisWorker.AssemblyInfo.cs
+C:\ws-vs2019.2021\CourseDoisWorker\CourseDoisWorker\obj\Debug\net5.0\CourseDoisWorker.csproj.CoreCompileInputs.cache
+C:\ws-vs2019.2021\CourseDoisWorker\CourseDoisWorker\obj\Debug\net5.0\CourseDoisWorker.dll
+C:\ws-vs2019.2021\CourseDoisWorker\CourseDoisWorker\obj\Debug\net5.0\ref\CourseDoisWorker.dll
+C:\ws-vs2019.2021\CourseDoisWorker\CourseDoisWorker\obj\Debug\net5.0\CourseDoisWorker.pdb
+C:\ws-vs2019.2021\CourseDoisWorker\CourseDoisWorker\obj\Debug\net5.0\CourseDoisWorker.genruntimeconfig.cache
